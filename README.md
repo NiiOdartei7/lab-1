@@ -6,6 +6,10 @@ Robert-William Nii Odartei Evans
 
 This file is the template for the first lab in Ashesi Web Development 2020.
 
+# Website Link
+https://niiodartei7.github.io/lab-1
+This is the link to my first portfolio website
+
 ## Contents
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
